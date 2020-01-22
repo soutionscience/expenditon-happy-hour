@@ -1,1 +1,40 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+// my custom main colors
+
+.main-primary{
+    background-color: #dc4e4d ;
+    color: black;
+    border: 1px #a41525 solid;
+}
+.light-primary{
+    background-color:#ff8079;
+    color: black
+}
+.dark-primary{
+    background-color: #a41525;
+    color: white;
+}
+
+.main-secondary{
+    background-color:#fae438 ;
+    color :blank;
+}
+
+.light-secondary{
+    background-color: #ffff6f;
+    color: black;
+
+}
+.dark-secondary{
+   background-color: #c3b200; 
+   color:white;
+
+}
+.link-white{
+   text-decoration: none;
+    color: white;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
